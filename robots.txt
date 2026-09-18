@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jeffph89.github.io/web-seguros/sitemap.xml
